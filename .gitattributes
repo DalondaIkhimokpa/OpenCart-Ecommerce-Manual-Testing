@@ -1,0 +1,4 @@
+*.md linguist-documentation
+code/*.py linguist-language=Python
+code/*.js linguist-language=JavaScript
+code/*.sql linguist-language=SQL
